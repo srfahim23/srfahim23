@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fahim Faysal  
+# 👋 Hi, I'm Faysal  
 ### 🚀 Web Developer @ Shabip Stack  
 
 <img src="https://i.ibb.co/q0sz2tM/coding-banner.gif" alt="coding banner" width="100%"/>
