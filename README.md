@@ -1,62 +1,25 @@
-# 👋 Hi, I'm Faysal  
-### 🚀 Web Developer @ Shabip Stack  
+<h1 align="center">Hi 👋, I'm Faysal</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/q0sz2tM/coding-banner.gif" alt="coding banner" width="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srfahim23&label=Profile%20views&color=0e75b6&style=flat" alt="srfahim23" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srfahim23" alt="srfahim23" /></a> </p>
 
-## 👨‍💻 About Me  
-I’m a passionate **Web Developer** who loves building modern, responsive, and scalable applications.  
-I specialize in **frontend frameworks (React, Next.js, TailwindCSS)** and also work with **WordPress + Elementor Pro** for CMS-based solutions.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://fb.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://instagram.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srfahim23" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/srfahim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="srfahim23" height="30" width="40" /></a>
+</p>
 
-- 💻 Currently working as **Web Developer @ Shabip Stack**  
-- 🌱 Learning **TypeScript & Python** to expand my stack  
-- 🔗 Experienced with **REST API integrations**  
-- 🌍 Freelancing on **Upwork** & collaborating with developers worldwide  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srfahim23&show_icons=true&locale=en&layout=compact" alt="srfahim23" /></p>
 
-## 🛠 Skills  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srfahim23&show_icons=true&locale=en" alt="srfahim23" /></p>
 
-### **Frontend Development**  
-- 🌐 **HTML, CSS, JavaScript** — Strong foundations  
-- 🎨 **TailwindCSS, Bootstrap, Material UI** — Modern UI styling  
-- ⚛️ **React.js / Next.js** — Powerful frontend frameworks  
-- 📘 **TypeScript** — Scalable code with type safety  
-
-### **Backend & APIs**  
-- 🟢 **Node.js, Express.js** — Server-side development  
-- 🔗 **REST API** — Building and consuming APIs  
-
-### **Other Tools**  
-- 🐍 **Python (Basics)**  
-- 📝 **WordPress, Elementor Pro**  
-- 🔧 **Git, GitHub, Postman**  
-
----
-
-## 💼 Work & Experience  
-- 💻 **Web Developer @ Shabip Stack** — building modern apps  
-- 🔭 Currently working on **React/Next.js projects**  
-- 🌱 Learning **Python & TypeScript**  
-- 🤝 Open to freelance projects (**Upwork**)  
-
----
-
-## 🌍 Connect With Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/srfahim23)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourid)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/srfahim23)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)  
-
----
-
-## 📊 GitHub Stats  
-
-![Faysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=srfahim23&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=srfahim23&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srfahim23&layout=compact&theme=radical)  
-
----
