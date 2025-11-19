@@ -56,22 +56,24 @@ Learning never stops; growth is inevitable; achievement is the reward.
 
 ---
 
-### 📊 **My Proficiency (Dynamic Progress Bars)**
+### 📊 **My Proficiency**
 
 <div align="center">
 
-<!-- Using a service like progress-bar.dev for dynamic bars -->
-<img src="https://progress-bar.dev/100/?title=HTML&color=blueviolet&width=600&height=30" alt="HTML 100%" />
-<img src="https://progress-bar.dev/100/?title=CSS&color=blueviolet&width=600&height=30" alt="CSS 100%" />
-<img src="https://progress-bar.dev/95/?title=JavaScript&color=blueviolet&width=600&height=30" alt="JavaScript 95%" />
-<img src="https://progress-bar.dev/90/?title=React&color=blueviolet&width=600&height=30" alt="React 90%" />
-<img src="https://progress-bar.dev/85/?title=Next.js&color=blueviolet&width=600&height=30" alt="Next.js 85%" />
-<img src="https://progress-bar.dev/90/?title=TailwindCSS&color=blueviolet&width=600&height=30" alt="TailwindCSS 90%" />
-<img src="https://progress-bar.dev/85/?title=Bootstrap&color=blueviolet&width=600&height=30" alt="Bootstrap 85%" />
-<img src="https://progress-bar.dev/95/?title=WordPress&color=blueviolet&width=600&height=30" alt="WordPress 95%" />
-<img src="https://progress-bar.dev/90/?title=Elementor&color=blueviolet&width=600&height=30" alt="Elementor 90%" />
-<img src="https://progress-bar.dev/85/?title=ACF&color=blueviolet&width=600&height=30" alt="ACF 85%" />
-<img src="https://progress-bar.dev/85/?title=Astra+Pro&color=blueviolet&width=600&height=30" alt="Astra Pro 85%" />
+<!-- List skills with percentages in a clear, readable format -->
+<samp>
+HTML: 100%<br/>
+CSS: 100%<br/>
+JavaScript: 95%<br/>
+React: 90%<br/>
+Next.js: 85%<br/>
+TailwindCSS: 90%<br/>
+Bootstrap: 85%<br/>
+WordPress: 95%<br/>
+Elementor: 90%<br/>
+ACF: 85%<br/>
+Astra Pro: 85%<br/>
+</samp>
 
 </div>
 
