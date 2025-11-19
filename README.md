@@ -1,12 +1,14 @@
-<!-- Animated Header with Typing Effect -->
+<!-- Animated Header: A clean, modern typing animation with a tech-inspired element -->
 <div align="center">
+  <!-- Typing animation for your name -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=32&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Faysal+Sarker;Full-Stack+Developer+%26+WordPress+Expert" alt="Typing SVG" />
   <br/>
-  <!-- Animated GIF for Visual Interest -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" height="200" alt="Developer Gif" />
+  <!-- A simple, high-quality animated coding GIF or a rotating 3D-like tech element (replace URL if you find one) -->
+  <!-- For now, using a popular, clean coding GIF -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" height="200" alt="Coding Animation" />
   <br/>
-  <h2> <samp> 🚀 Curiosity fuels me, perfection defines me | Web Developer at Shabip Stack </samp> </h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&size=18&duration=2000&color=61DAFB&center=true&vCenter=true&width=600&lines=Crafting+web+experiences+that+combine+beauty+and+functionality." alt="Typing SVG" />
+  <!-- Subtitle with another typing effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&size=18&duration=2000&color=61DAFB&center=true&vCenter=true&width=600&lines=Curiosity+fuels+me%2C+perfection+defines+me+|+Web+Developer+at+Shabip+Stack" alt="Typing SVG Subtitle" />
 </div>
 
 ---
@@ -18,6 +20,7 @@
 <samp>
 Every project is a canvas, every line of code a stroke of thought and precision.<br/>
 Ownership & excellence over shortcuts; satisfaction only comes from perfection.<br/>
+I craft web experiences that combine beauty and functionality.<br/>
 Learning never stops; growth is inevitable; achievement is the reward.
 </samp>
 
@@ -29,7 +32,7 @@ Learning never stops; growth is inevitable; achievement is the reward.
 
 <div align="center">
 
-<!-- Using a table layout for better organization -->
+<!-- Organizing skills using a table for clarity and modern look -->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -60,7 +63,7 @@ Learning never stops; growth is inevitable; achievement is the reward.
 
 <div align="center">
 
-<!-- List skills with percentages in a clear, readable format -->
+<!-- Clean text-based proficiency list -->
 <samp>
 HTML: 100%<br/>
 CSS: 100%<br/>
@@ -83,7 +86,7 @@ Astra Pro: 85%<br/>
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
+<!-- GitHub stats cards for a modern data view -->
 <img src="https://github-readme-stats.vercel.app/api?username=faysalsarker&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Faysal Sarker's GitHub Stats" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker&theme=dark" alt="GitHub Streak" />
@@ -98,7 +101,7 @@ Astra Pro: 85%<br/>
 
 <div align="center">
 
-<!-- Contribution Graph -->
+<!-- Contribution graph for visual activity representation -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=faysalsarker&theme=github-dark&hide_border=true" />
 
 </div>
@@ -109,7 +112,7 @@ Astra Pro: 85%<br/>
 
 <div align="center">
 
-<!-- Social Media Badges -->
+<!-- Social media badges for a clean, clickable look -->
 <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/your_linkedin_handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/your_instagram_handle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -129,7 +132,7 @@ Astra Pro: 85%<br/>
 
 <div align="center">
 
-<!-- Profile View Counter -->
+<!-- Profile view counter -->
 <img src="https://komarev.com/ghpvc/?username=faysalsarker&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
